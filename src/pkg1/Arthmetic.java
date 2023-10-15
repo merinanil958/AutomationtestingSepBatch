@@ -1,3 +1,4 @@
+/*Assignment 1- solve the formula=> ((((10+2)+2)-2)*2)/2) */
 package pkg1;
 
 public class Arthmetic {
